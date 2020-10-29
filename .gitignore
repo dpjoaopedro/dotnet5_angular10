@@ -1,3 +1,5 @@
 **/API/bin
 **/API/obj
 **datingapp.db
+
+appsettings.json
